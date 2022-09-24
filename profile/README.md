@@ -1,10 +1,14 @@
-# welcome<br>to [@webmural](https://github.com/webmural)
+# [wwwelcome](https://github.com/sponsors/webmural)<br>to [@webmural](https://github.com/webmural)
 
-## domains
+## <a href="https://webmural.com">webmural.com</a>
 
-<dl>
-  <dt><a href="https://webmural.com">webmural.com</a>
-  <dd>our website
-  <dt><a href="https://webmural.dev">webmural.dev</a>
-  <dd>our cheatcode
-</dl>
+[bee lost and found](https://webmural.com/code) 
+
+[we're all about it](https://webmural.com/about)
+
+## <a href="https://webmural.dev">webmural.dev</a>
+
+our `.dev` directs to github 
+
+are you [telepathic butterfly](https://webmural.dev/butterfly)
+
