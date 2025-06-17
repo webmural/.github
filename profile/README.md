@@ -1,9 +1,5 @@
-# [wwwelcome](https://github.com/sponsors/webmural)<br>to [@webmural](https://github.com/webmural)
-
-## <a href="https://webmural.com">webmural.com</a>
+# [wwwelcome](https://github.com/sponsors/webmural) :) <br> <a href="https://webmural.com">webmural.com</a>
 ### [street mural ethos <br> created by humans hue hypertext <br> hyperlinked artfully in worldwidewebs](https://webmural.com/daisy)
-
-> [A webmural is like a <b>street mural</b> created online with open code and inclusive ethos flowing expression and education](https://webmural.com/about)
 
 ### [Funding helps us ethically sustain growth](https://github.com/sponsors/webmural)
 
